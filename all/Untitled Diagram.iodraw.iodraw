@@ -20,7 +20,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="5" value="SOLUÇÕES" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0082C8;fontColor=#ffffff;strokeColor=none;fontSize=12;fontStyle=1;" vertex="1" parent="1">
-          <mxGeometry x="470" y="140" width="140" height="45" as="geometry" />
+          <mxGeometry x="470" y="160" width="140" height="45" as="geometry" />
         </mxCell>
         <mxCell id="e5" edge="1" parent="1" source="2" target="5">
           <mxGeometry relative="1" as="geometry" />
